@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f567582f-f9a9-4af3-964a-ee6046d8c3cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CharCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PairSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverceSentences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +48,7 @@
     "Application.MergeTwoArray.executor": "Run",
     "Application.PairSum.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Run",
     "Application.ReverceSentences.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
@@ -65,7 +62,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverceSentences">
+  <component name="RunManager" selected="Application.RemoveDuplicate">
     <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharCount" />
       <module name="JAVA-Practice" />
@@ -87,6 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicate" />
+      <module name="JAVA-Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverceSentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverceSentences" />
       <module name="JAVA-Practice" />
@@ -94,20 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isAnagrams" />
-      <module name="JAVA-Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicate" />
         <item itemvalue="Application.ReverceSentences" />
         <item itemvalue="Application.CharCount" />
         <item itemvalue="Application.PairSum" />
         <item itemvalue="Application.CustomSorting" />
-        <item itemvalue="Application.isAnagrams" />
       </list>
     </recent_temporary>
   </component>
