@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f567582f-f9a9-4af3-964a-ee6046d8c3cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NTHSalaryAbove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NTHSalaryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NthMostFrequentWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RepeatedCharecters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NthMostFrequentWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NthMostFrequentWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Swap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +49,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.CharCount.executor": "Run",
     "Application.CommonElement.executor": "Run",
+    "Application.CustomExceptions.executor": "Run",
     "Application.CustomSorting.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fruit.executor": "Run",
@@ -88,9 +86,9 @@
     "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NthMostFrequentWord">
-    <configuration name="NTHSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NTHSalary" />
+  <component name="RunManager" selected="Application.CustomExceptions">
+    <configuration name="CustomExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomExceptions" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomExceptions" />
         <item itemvalue="Application.NthMostFrequentWord" />
         <item itemvalue="Application.NTHSalaryAbove" />
         <item itemvalue="Application.RepeatedCharecters" />
         <item itemvalue="Application.ReverceString" />
-        <item itemvalue="Application.NTHSalary" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +149,17 @@
       <updated>1740311451770</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

@@ -10,7 +10,6 @@ public class Swap {
         for (String swap :list){
             System.out.println("Befour Swap : "+swap);
         }
-
         System.out.println("----------------------------");
         Collections.swap(list,0,1);
 
