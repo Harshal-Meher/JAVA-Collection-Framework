@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f567582f-f9a9-4af3-964a-ee6046d8c3cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NTHSalary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverceSentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverceSentences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
     "Application.Main.executor": "Run",
     "Application.MergeArrays.executor": "Run",
     "Application.MergeTwoArray.executor": "Run",
+    "Application.NTHSalary.executor": "Run",
     "Application.PairSum.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.RemoveDuplicate.executor": "Run",
@@ -59,10 +61,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RemoveDuplicate">
+  <component name="RunManager" selected="Application.NTHSalary">
     <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharCount" />
       <module name="JAVA-Practice" />
@@ -70,15 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CustomSorting" />
-      <module name="JAVA-Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PairSum" />
+    <configuration name="NTHSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NTHSalary" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,13 +94,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+      <module name="JAVA-Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicate" />
+        <item itemvalue="Application.NTHSalary" />
         <item itemvalue="Application.ReverceSentences" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.RemoveDuplicate" />
         <item itemvalue="Application.CharCount" />
-        <item itemvalue="Application.PairSum" />
-        <item itemvalue="Application.CustomSorting" />
       </list>
     </recent_temporary>
   </component>
