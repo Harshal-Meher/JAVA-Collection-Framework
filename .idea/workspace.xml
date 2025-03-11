@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f567582f-f9a9-4af3-964a-ee6046d8c3cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CustomExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateUseHashSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NthMostFrequentWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NthMostFrequentWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RepeatedCharecters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RepeatedCharecters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
     <setting file="file://$PROJECT_DIR$/src/RepeatedCharecters.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -64,7 +65,8 @@
     "Application.NthMostFrequentWord.executor": "Run",
     "Application.PairSum.executor": "Run",
     "Application.Palindrome.executor": "Run",
-    "Application.RemoveDuplicate.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Coverage",
+    "Application.RemoveDuplicateUseHashSet.executor": "Run",
     "Application.RepeatedCharecters.executor": "Run",
     "Application.ReverceSentences.executor": "Run",
     "Application.ReverceString.executor": "Run",
@@ -76,26 +78,28 @@
     "Application.iteratorList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowProblems.ShowToolbar": "false",
     "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ASUS/IdeaProjects/JAVA-Practice",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CustomExceptions">
-    <configuration name="CustomExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CustomExceptions" />
+  <component name="RunManager" selected="Application.RemoveDuplicateUseHashSet">
+    <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharCount" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NTHSalaryAbove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NTHSalaryAbove" />
+    <configuration name="CustomExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomExceptions" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,22 +112,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthMostFrequentWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NthMostFrequentWord" />
+    <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicate" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedCharecters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepeatedCharecters" />
+    <configuration name="RemoveDuplicateUseHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicateUseHashSet" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverceString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverceString" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicateUseHashSet" />
+        <item itemvalue="Application.RemoveDuplicate" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.CharCount" />
         <item itemvalue="Application.CustomExceptions" />
-        <item itemvalue="Application.NthMostFrequentWord" />
-        <item itemvalue="Application.NTHSalaryAbove" />
-        <item itemvalue="Application.RepeatedCharecters" />
-        <item itemvalue="Application.ReverceString" />
       </list>
     </recent_temporary>
   </component>
@@ -163,5 +167,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/isPrimeNumber.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA_Practice$RemoveDuplicate.ic" NAME="RemoveDuplicate Coverage Results" MODIFIED="1741633231594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
