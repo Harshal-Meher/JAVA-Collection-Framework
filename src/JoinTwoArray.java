@@ -5,7 +5,6 @@ public class JoinTwoArray {
     public static void main(String[] args) {
         System.out.println("-------------------------------");
         ArrayList<String> list_str1= new ArrayList<String>();
-
         list_str1.add("Laptop");
         list_str1.add("Keyboard");
         list_str1.add("Mouse");

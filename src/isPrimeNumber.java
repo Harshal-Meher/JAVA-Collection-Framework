@@ -1,13 +1,11 @@
 import java.util.Scanner;
 
 public class isPrimeNumber {
-
     public static boolean isPrime(int val) {
 
         if (val < 2) {
             return false;
         }
-
         for (int i = 2 ; i <= Math.sqrt(val) ; i++) {
             if (val % i == 0) {
                 return false;

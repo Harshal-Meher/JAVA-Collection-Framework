@@ -7,8 +7,6 @@ public class CommonElement {
         int[] arr1 = {1,2,3,4,5,4};
         int[] arr2 = {6,7,8,3,4,1,5};
 
-
-
 //      HashSet<Integer> res = new HashSet<>();
         Set<Integer> res2 = new HashSet<>();
 
@@ -20,7 +18,6 @@ public class CommonElement {
                 }
             }
         }
-
         for(Integer result : res2){
             System.out.println(result);
         }

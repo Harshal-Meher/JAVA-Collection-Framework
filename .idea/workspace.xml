@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f567582f-f9a9-4af3-964a-ee6046d8c3cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateUseHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OldestEmployeeFindAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SorttingByLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CustomExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RepeatedCharecters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RepeatedCharecters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CommonElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CommonElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JoinTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JoinTwoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NTHSalaryAbove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NTHSalaryAbove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isPrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +65,7 @@
     "Application.NTHSalaryMethod.executor": "Run",
     "Application.NTHSalaryThreshold.executor": "Run",
     "Application.NthMostFrequentWord.executor": "Run",
+    "Application.OldestEmployeeFindAge.executor": "Run",
     "Application.PairSum.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.RemoveDuplicate.executor": "Coverage",
@@ -71,6 +74,7 @@
     "Application.ReverceSentences.executor": "Run",
     "Application.ReverceString.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.SorttingByLength.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.isAnagrams.executor": "Run",
@@ -90,7 +94,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RemoveDuplicateUseHashSet">
+  <component name="RunManager" selected="Application.OldestEmployeeFindAge">
     <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharCount" />
       <module name="JAVA-Practice" />
@@ -98,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CustomExceptions" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,15 +116,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicate" />
+    <configuration name="OldestEmployeeFindAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OldestEmployeeFindAge" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateUseHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicateUseHashSet" />
+    <configuration name="ReverceSentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverceSentences" />
       <module name="JAVA-Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicateUseHashSet" />
-        <item itemvalue="Application.RemoveDuplicate" />
-        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.OldestEmployeeFindAge" />
         <item itemvalue="Application.CharCount" />
-        <item itemvalue="Application.CustomExceptions" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.ReverceSentences" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -167,17 +171,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/isPrimeNumber.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA_Practice$RemoveDuplicate.ic" NAME="RemoveDuplicate Coverage Results" MODIFIED="1741633231594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
